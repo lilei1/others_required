@@ -1,5 +1,12 @@
 # Brachypodium GWAS Analysis Notes
 
+## Background
+
+This analysis is based on the original VCF file processing tutorial documented in:
+[Brachy_mutant/analysis/Natural_accessions/filtering_variants.md](https://github.com/lilei1/Brachy_mutant/blob/master/analysis/Natural_accessions/filtering_variants.md)
+
+The workflow follows the variant filtering procedures established for Brachypodium natural accessions analysis.
+
 ## Email Request
 
 **From:** Mingqin Shao  
